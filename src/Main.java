@@ -1,6 +1,12 @@
-
-
+/**
+ * <h1>Main</h1>
+ * Clase principal
+ */
 public class Main {
+    /**
+     * Método principal en todo el programa, genera 100 lineas en el documento txt
+     * @param args
+     */
     public static void main(String[] args) {
         Serializer serializer = new Serializer();
 
